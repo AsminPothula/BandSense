@@ -8,8 +8,10 @@ Bandaid sensors, or sensors that have been implemented on bandaids, provide clos
 **Research Questions:**
 
 Prequel: Understand raw data; record sessions, understand the pipeline for data storing.
+
 1) How can we extract features from raw sensor data?
 - Data exploration; data visualization; data processing
 - Feature extraction
+  
 2) What kinds of features can be extracted from raw sensor data for use in machine learning algorithms?
 
